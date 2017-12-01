@@ -1,1 +1,1 @@
-# a-trip-to-python
+- 这是我对《Python之旅》的笔记，对原作者表示感谢
